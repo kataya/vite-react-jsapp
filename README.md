@@ -295,7 +295,7 @@ npm run copy
 npm run dev
 ```
 
-![intro-react-calcite-vite-jsapp](https://github.com/kataya/vite-react-jsapp/blob/main/images/intro-react-calcite-vite-jsapp.png?raw=true)
+![intro-react-calcite-vite-jsapp](https://github.com/kataya/vite-react-jsapp/blob/master/images/intro-react-calcite-vite-jsapp.png?raw=true)
 
 ## 参考
 
